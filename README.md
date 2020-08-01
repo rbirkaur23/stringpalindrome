@@ -1,2 +1,2 @@
 # stringpalindrome
-A program to input a string and show String is palindrome or not.
+C program to input a string and print string is palindrome or not.
