@@ -1,2 +1,2 @@
 # stringpalindrome
-String is palindrome or not.
+A program to show String is palindrome or not.
